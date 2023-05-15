@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sheikh Mohammad Al-Amin
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frontend Web Developing
+- 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on different project
 - 📫 Connect with me--
 
